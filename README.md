@@ -1,4 +1,4 @@
-![App image]()
+![App image](https://github.com/Lmssnlab/Image_to_text_in_French/blob/main/Text%20to%20image%20app.png)
 
 
 [Lien de l'application streamlit](https://imagetotextinfrench-3ayg3fc9ewbzslsznxvyh2.streamlit.app/)
