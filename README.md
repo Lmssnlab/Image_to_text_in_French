@@ -31,4 +31,35 @@ Cette application Streamlit permet aux utilisateurs de télécharger une image e
 
 ## Installation
 
-1. Clonez ce dépôt : [Dépôt]().
+1. Clonez ce dépôt : [Dépôt](https://github.com/Lmssnlab/Image_to_text_in_French).
+
+
+2. Installez les dépendances :
+pip install -r requirements.txt
+
+
+3. Créez un fichier `.env` à la racine du projet et ajoutez votre clé API Hugging Face :
+HF_API_KEY=votre_clé_api_ici
+
+
+## Utilisation
+
+1. Lancez l'application : streamlit run app.py
+
+
+2. Ouvrez votre navigateur à l'adresse indiquée (généralement http://localhost:8501).
+
+3. Utilisez le bouton "Choisissez une image..." pour télécharger une image.
+
+4. Cliquez sur "Obtenir la Description en Français" pour générer et afficher la description.
+
+## Remarque sur la confidentialité
+
+Cette application utilise des API externes pour l'analyse d'image et la traduction. Assurez-vous de ne pas télécharger d'images sensibles ou confidentielles.
+
+## Contribution
+
+Les contributions à ce projet sont les bienvenues. N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+
+
+
